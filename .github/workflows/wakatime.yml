@@ -1,12 +1,16 @@
 name: WakaTime Metrics Updater
 
+# 添加权限设置
 permissions:
-  contents: write
+  contents: write  # 允许写入内容（推送更改）
+  pull-requests: write  # 如果需要创建PR
 
 on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-readme:
@@ -15,10 +19,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Update WakaTime Metrics
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_TIMEZONE: "False"
           LOCALE: "zh-CN"
