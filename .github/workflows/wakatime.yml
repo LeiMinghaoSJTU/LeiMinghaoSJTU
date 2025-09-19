@@ -1,12 +1,14 @@
 name: WakaTime Metrics Updater
 
+# 添加权限设置
+permissions:
+  contents: write  # 允许写入内容（推送更改）
+  pull-requests: write  # 如果需要创建PR
+
 on:
-  # 每 12 小时自动运行一次
   schedule:
     - cron: '0 */12 * * *'
-  # 允许手动触发
   workflow_dispatch:
-  # 当推送到 main 分支时也运行（可选）
   push:
     branches: [ main ]
 
@@ -18,30 +20,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          # 使用个人访问令牌来允许推送更改
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Update WakaTime Metrics
         uses: anmol098/waka-readme-stats@master
         with:
-          # 使用您在 Secrets 中设置的 WakaTime API 密钥
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 以下是一些配置选项，您可以根据需要调整
+          SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_TIMEZONE: "False"
           LOCALE: "zh-CN"
-          
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update WakaTime metrics" || echo "No changes to commit"
-          git push
