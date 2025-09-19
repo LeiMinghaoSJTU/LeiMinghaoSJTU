@@ -1,16 +1,12 @@
-## Hi there 👋
+LeiMinghaoSJTU's GitHub Profile
+https://github.com/LeiMinghaoSJTU/LeiMinghaoSJTU/blob/main/assets/header.png?raw=true
 
-<!--
-**LeiMinghaoSJTU/LeiMinghaoSJTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Lei Minghao</h1> <h3 align="center">A passionate developer from SJTU</h3><p align="center"> <!-- 徽章部分 --> <a href="https://github.com/LeiMinghaoSJTU?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github" alt="GitHub Repos"> </a> <a href="https://wakatime.com/@LeiMinghaoSJTU"> <img src="https://wakatime.com/badge/user/LeiMinghaoSJTU.svg?style=for-the-badge" alt="WakaTime"> </a> <img src="https://komarev.com/ghpvc/?username=LeiMinghaoSJTU&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
+🛠️ 技术栈
+<p align="left"> <!-- C++ 徽章 --> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </a> <!-- Python 徽章 --> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> <!-- MATLAB 徽章 --> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"> </a> <!-- MySQL 徽章 --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </a> </p>
+📊 GitHub 统计
+<p align="center"> <!-- GitHub 统计卡片 --> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU&show_icons=true&locale=en&theme=radical" alt="LeiMinghaoSJTU's GitHub Stats" /> <br/><br/> <!-- 最常用语言统计 --> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiMinghaoSJTU&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" /> <br/><br/> <!-- WakaTime 统计 --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeiMinghaoSJTU&theme=radical" alt="WakaTime Stats" /> <br/><br/> <!-- 连续提交贡献图 --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiMinghaoSJTU&theme=radical" alt="GitHub Streak" /> </p>
+🌟 置顶仓库
+<p align="center"> <!-- 置顶仓库1 --> <a href="https://github.com/LeiMinghaoSJTU/project1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=project1&theme=radical" /> </a> <!-- 置顶仓库2 --> <a href="https://github.com/LeiMinghaoSJTU/project2"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=project2&theme=radical" /> </a> <br/><br/> <!-- 置顶仓库3 --> <a href="https://github.com/LeiMinghaoSJTU/project3"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=project3&theme=radical" /> </a> <!-- 置顶仓库4 --> <a href="https://github.com/LeiMinghaoSJTU/project4"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=project4&theme=radical" /> </a> </p>
+📫 联系我
+<p align="left"> <a href="https://linkedin.com/in/LeiMinghaoSJTU" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:your.email@sjtu.edu.cn"> <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
