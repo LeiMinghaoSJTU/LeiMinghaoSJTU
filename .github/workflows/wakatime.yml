@@ -38,7 +38,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_TIMEZONE: "False"
-          LOCALE: "zh-CN"
+          LOCALE: "zh"
           
       # 第三步：提交和推送更改
       - name: Commit and Push changes
