@@ -1,11 +1,56 @@
 <h1 align="center">Lei Minghao</h1> <h3 align="center">A passionate developer from SJTU</h3><p align="center"> <!-- 徽章部分 --> <a href="https://github.com/LeiMinghaoSJTU?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github" alt="GitHub Repos"> </a> <img src="https://komarev.com/ghpvc/?username=LeiMinghaoSJTU&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
-🛠️ 技术栈
+
+ 📞 173-5852-4632
+ 
+📧 lei_minghao@sjtu.edu.cn
+
+🎂 2002-04-26
+
+ 上海交通大学 · 应用数学 · 硕士
+
+
+应用数学专业硕士研究生，研究方向：谐波分析 (Harmonic Analysis)。主要研究 Fourier 变换、Hilbert 变换、Laplace 变换、小波变换等算法及其离散化，有数字信号处理、时频分析、数据结构、数值计算、最优化方法、机器学习、计算机图形学基础，以及 Matlab、cpp、python 编程经验。作为爱好，对合成器使用、音频处理、语音识别和生成有实践经验。
+
+---
+
+### 🎓 教育背景
+
+* **2027.03 - 2024.09 | 上海交通大学 · 数学科学学院**
+    * **专业**: 应用数学 · 硕士
+    * **GPA**: 3.8/4.0
+
+* **2024.06 - 2020.09 | 南京大学 · 数学系**
+    * **专业**: 数学与应用数学 · 学士
+    * **GPA**: 4.5/5.0, 10%
+
+---
+
+### 🛠️ 技能和语言
+
 <p align="left"> <!-- C++ 徽章 --> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </a> <!-- Python 徽章 --> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> <!-- MATLAB 徽章 --> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"> </a> <!-- MySQL 徽章 --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </a> </p>
 
-📊 GitHub 统计
-<br/> <!-- WakaTime 统计 --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeiMinghaoSJTU&theme=radical" alt="WakaTime Stats" /> <br/><br/> <!-- 连续提交贡献图 --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiMinghaoSJTU&theme=radical" alt="GitHub Streak" /> </p>
+* **DSP 算法**: Fourier 变换及其拓展 (快速 Fourier 变换、加窗 Fourier 变换、Gabor 变换)、Hilbert 变换、Laplace 变换、Wigner-Ville 分布、小波变换等
+* **ML 模型**: 神经网络, SVM, LR, 决策树, 随机森林, 朴素贝叶斯等
+* **优化算法**: SGD(随机梯度下降), AdaGrad, Adam, RMSProp, GA(遗传算法) 等
+* **语言**: 英语 - CET 6 570, CET 4 630
 
-<p align="center"> <!-- GitHub 统计卡片 --> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU&show_icons=true&locale=en&theme=radical" alt="LeiMinghaoSJTU's GitHub Stats" /> <br/><br/> <!-- 最常用语言统计 --> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiMinghaoSJTU&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" /> <br/>
+---
+
+### 🏆 荣誉奖项
+
+* 第十三届全国大学生数学竞赛（决赛）全国二等奖 (2023)
+* 第十四届全国大学生数学竞赛江苏赛区一等奖 (2023)
+* 南京大学人民奖学金一等奖 (2021,2022)
+* 南京大学基础学科专项奖学金优秀奖 (2022,2023)
+* 上海交通大学学业奖学金 (2024)
+
+
+📊 GitHub 统计
+
+<p align="center"> <br/> <!-- WakaTime 统计 --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeiMinghaoSJTU&theme=radical" alt="WakaTime Stats" /> <br/><p align="center"> <br/> <!-- 连续提交贡献图 --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiMinghaoSJTU&theme=radical" alt="GitHub Streak" /> </p> <br/> 
+<p align="center"> <!-- GitHub 统计卡片 --> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU&show_icons=true&locale=en&theme=radical" alt="LeiMinghaoSJTU's GitHub Stats" /> <br/>
+<p align="center"> <br/> <!-- 最常用语言统计 --> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiMinghaoSJTU&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" /> <br/>
+  
 🌟 置顶仓库
 <p align="center"> <!-- 置顶仓库1 --> <a href="https://github.com/LeiMinghaoSJTU/project1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=project1&theme=radical" /> </a> 
   <!-- 置顶仓库2 --> <a href="https://github.com/LeiMinghaoSJTU/A-Class-of-Adaptive-Stochastic-Gradient-Methods-for-Large-Scale-Optimization"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeiMinghaoSJTU&repo=A-Class-of-Adaptive-Stochastic-Gradient-Methods-for-Large-Scale-Optimization&theme=radical" /> </a> <br/><br/>
