@@ -9,7 +9,7 @@
  上海交通大学 · 应用数学 · 硕士
 
 
-应用数学专业硕士研究生，研究方向：谐波分析 (Harmonic Analysis)。主要研究 Fourier 变换、Hilbert 变换、Laplace 变换、小波变换等算法及其离散化，有数字信号处理、时频分析、数据结构、数值计算、最优化方法、机器学习、计算机图形学基础，以及 Matlab、cpp、python 编程经验。作为爱好，对合成器使用、音频处理、语音识别和生成有实践经验。
+应用数学专业硕士研究生，研究方向：谐波分析 (Harmonic Analysis，主要研究 Fourier 变换、Hilbert 变换、Laplace 变换、小波变换等算法及其离散化），有机器学习、数字信号处理、数据结构、数值计算、最优化方法、时频分析、计算机图形学基础，以及 Matlab、cpp、python 编程经验。作为爱好，对合成器使用、音频处理、AI语音识别和生成有实践经验。
 
 ---
 
@@ -29,9 +29,10 @@
 
 <p align="left"> <!-- C++ 徽章 --> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </a> <!-- Python 徽章 --> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a> <!-- MATLAB 徽章 --> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"> </a> <!-- MySQL 徽章 --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </a> </p>
 
-* **DSP 算法**: Fourier 变换及其拓展 (快速 Fourier 变换、加窗 Fourier 变换、Gabor 变换)、Hilbert 变换、Laplace 变换、Wigner-Ville 分布、小波变换等
+
 * **ML 模型**: 神经网络, SVM, LR, 决策树, 随机森林, 朴素贝叶斯等
 * **优化算法**: SGD(随机梯度下降), AdaGrad, Adam, RMSProp, GA(遗传算法) 等
+* **DSP 算法**: Fourier 变换及其拓展 (快速 Fourier 变换、加窗 Fourier 变换、Gabor 变换)、Hilbert 变换、Laplace 变换、Wigner-Ville 分布、小波变换等
 * **语言**: 英语 - CET 6 570, CET 4 630
 
 ---
