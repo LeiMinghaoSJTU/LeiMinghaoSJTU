@@ -1,5 +1,8 @@
 <h1 align="center">Lei Minghao</h1> <h3 align="center">A passionate developer from SJTU</h3><p align="center"> <!-- 徽章部分 --> <a href="https://github.com/LeiMinghaoSJTU?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github" alt="GitHub Repos"> </a> <img src="https://komarev.com/ghpvc/?username=LeiMinghaoSJTU&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
 
+<img width="1587" height="2245" alt="resume_master__AI_" src="https://github.com/user-attachments/assets/9ac11232-99fc-4249-b2c4-79ec5146c574" />
+
+
  📞 173-5852-4632
  
 📧 lei_minghao@sjtu.edu.cn
