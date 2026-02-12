@@ -15,9 +15,9 @@
 
 📊 GitHub 统计
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiMinghaoSJTU)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiMinghaoSJTU&layout=compact&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU)
+![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU&show_icons=true&theme=github_dark&count_private=true)
 
  <br/> <!-- 连续提交贡献图 --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiMinghaoSJTU&theme=radical" alt="GitHub Streak" /> </p> <br/> 
 
