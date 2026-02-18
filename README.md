@@ -1,7 +1,6 @@
 <h1 align="center">Lei Minghao</h1> <h3 align="center">A passionate developer from SJTU</h3><p align="center"> <!-- 徽章部分 --> <a href="https://github.com/LeiMinghaoSJTU?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github" alt="GitHub Repos"> </a> <img src="https://komarev.com/ghpvc/?username=LeiMinghaoSJTU&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
 
 
-
  📞 173-5852-4632
  
 📧 lei_minghao@sjtu.edu.cn
@@ -11,13 +10,6 @@
  上海交通大学 · 应用数学 · 硕士
 
 
-
-
-📊 GitHub 统计
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiMinghaoSJTU)
-
-![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=LeiMinghaoSJTU)
 
  <br/> <!-- 连续提交贡献图 --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiMinghaoSJTU&theme=radical" alt="GitHub Streak" /> </p> <br/> 
 
